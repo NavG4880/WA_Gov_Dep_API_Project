@@ -20,7 +20,7 @@ Quick Start
 
 To get started, clone this repository to your local machine:
 
-git clone https://github.com/yourusername/wa_public_services_api.git
+git clone [https://github.com/yourusername/wa_public_services_api.git](https://github.com/NavG4880/WA_Gov_Dep_API_Project.git)
 cd wa_public_services_api
 
 2. Create a Virtual Environment (Optional but Recommended)
